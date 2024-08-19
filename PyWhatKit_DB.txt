@@ -83,3 +83,43 @@ Time: 10:34
 Group ID: EfEN7MgUZdU3wX2a850j4p
 Message: mensaje de prueba de automatizacion de whatsapp
 --------------------
+Date: 19/8/2024
+Time: 10:45
+Phone Number: +5356068764
+Message: Hola princesa este mensaje no lo escribi con el movil
+--------------------
+Date: 19/8/2024
+Time: 10:46
+Phone Number: +5354700189
+Message: Hola princesa este mensaje no lo escribi con el movil
+--------------------
+Date: 19/8/2024
+Time: 10:48
+Phone Number: +5356068764
+Message: Hola princesa este mensaje no lo escribi con el movil
+--------------------
+Date: 19/8/2024
+Time: 10:49
+Phone Number: +5354700189
+Message: Hola princesa este mensaje no lo escribi con el movil
+--------------------
+Date: 19/8/2024
+Time: 10:53
+Phone Number: +5354700189
+Message: Hola princesa este mensaje no lo escribi con el movil
+--------------------
+Date: 19/8/2024
+Time: 10:57
+Phone Number: +5354700189
+Message: Hola princesa este mensaje no lo escribi con el movil
+--------------------
+Date: 19/8/2024
+Time: 10:59
+Group ID: EfEN7MgUZdU3wX2a850j4p
+Message: mensaje de prueba de automatizacion de whatsapp
+--------------------
+Date: 19/8/2024
+Time: 11:0
+Group ID: I9ieIGTxCkD9wKEpfM9cr6
+Message: mensaje de prueba de automatizacion de whatsapp
+--------------------
