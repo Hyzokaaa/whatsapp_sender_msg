@@ -10,14 +10,22 @@ future_time = current_time + timedelta(minutes=1)  # Añade 1 minuto
 print(f"Hora futura: {future_time.hour}, Minuto futuro: {future_time.minute}")
 
 # Configuración del mensaje
-receiver = '+5356068764'
+receiver = '+5354700189'
 msg = 'Hola princesa este mensaje no lo escribi con el movil'
 
 # Envía el mensaje
 pywhatkit.sendwhatmsg(receiver, msg, future_time.hour, future_time.minute)
-
 time.sleep(10)
 print("Se envio correctamente el mensaje")
+
+
+# Obtén el tiempo actual y añade un minuto para el envío
+current_time = datetime.now()
+future_time = current_time + timedelta(minutes=1)  # Añade 1 minuto
+pywhatkit.sendwhatmsg_to_group(group_id='EfEN7MgUZdU3wX2a850j4p',
+                               message='mensaje de prueba de automatizacion de whatsapp',
+                               time_hour=future_time.hour,
+                               time_min=future_time.minute)
 
 '''
 edge_options = Options()
